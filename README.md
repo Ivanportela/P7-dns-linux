@@ -164,7 +164,7 @@ Executo docker compose up e métome na máquina cliente(clientealpine) usando as
 docker exec -it clientealpine /bin/ash
 
 ```
-Alpine usa o xestor "apk" en vez de "apt" polo cal executo "apk update" e acto seguido fago un ping á miná zoa (anxovaz.com).
+Alpine usa o xestor "apk" en vez de "apt" polo cal executo "apk update" e acto seguido fago un ping á miná zoa (ivanp.com).
 PD: Esta imaxe trae por defecto instalados os paquetes necesarios para facer ping, polo cal non preciso de instalalos.
 ```shell
 apk update
