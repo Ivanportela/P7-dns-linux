@@ -111,10 +111,10 @@ options {
 ```
 
 ### Archivo named.conf.local
-Neste archivo configuro a zoa anxovaz.com indicandolle o archivo zonas/db.asircastelao.int.
+Neste archivo configuro a zoa ivanp.com indicandolle o archivo zonas/db.asircastelao.int.
 Contido named.conf.local:
 ```shell
-zone "anxovaz.com" {
+zone "ivanp.com" {
 	type master;
 	file "/var/lib/bind/db.asircastelao.int";
 	allow-query {
